@@ -1,4 +1,4 @@
-# Hi I'm IaCFaraz 👋
+# Hi I'm Faraz 👋
 
 I'm [Muhammad Faraz], a passionate DevOps Engineer dedicated to automating workflows and enhancing system reliability. I specialize in:
 
